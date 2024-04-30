@@ -5,7 +5,6 @@
   </a>
 
   <a href="https://apps.apple.com/developer/tarik-nasuhoglu/id1498465980">
-    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="AppStore Badge"/>
   </a>
   
   <a href="https://twitter.com/tnasuh">
